@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-# author: Mourad Askar <mourad.askar@outlook.com>
+# author: Maskar
 # date: 2020-05-01
 # version: 1.0
 # description: This script is a template script for python scripts
